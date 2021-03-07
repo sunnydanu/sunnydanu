@@ -39,7 +39,7 @@ const sunny = {
             js: ["node", "express"],
             php: ["Laravel","Codeigniter"]
         },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx","Apache"],
+        devOps: ["AWS","Linux", "Docker🐳","Apache"],
         databases: ["mongo", "MySql", "sqlite"],
         misc: ["Firebase", "Socket.IO", "Bitbucket", "php"]
     },
