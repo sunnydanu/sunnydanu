@@ -13,7 +13,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 ![GitHub followers](https://img.shields.io/github/followers/sunnydanu?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=http://sunnydanu.com/)](http://sunnydanu.com/)
 ![](https://visitor-badge.glitch.me/badge?page_id=sunnydanu.sunnydanu)
-![Waka Readme](https://github.com/sunnydanu/sunnydanu/workflows/Waka%20Stats/badge.svg)
+![Waka Readme](https://github.com/sunnydanu/sunnydanu/workflows/update-status.yml/badge.svg)
 
 👇 Hit in your console or terminal to connect with me.
 
