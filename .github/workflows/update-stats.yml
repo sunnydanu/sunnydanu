@@ -1,4 +1,4 @@
-name: Fetch Waka Stats
+name: Waka Stats
 
 on:
   workflow_dispatch:
