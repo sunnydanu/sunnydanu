@@ -44,8 +44,7 @@ const sunny = {
         misc: ["Firebase", "Socket.IO", "Bitbucket", "php"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "Internet of things artificial intelligence",
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    currentFocus: "Internet of things artificial intelligence"
 };
 ```
 
