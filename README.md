@@ -8,7 +8,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <p><em>Software Engineer at <a href="https://intellisensetechnology.ca/">Intellisense Technology</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
- 
+
 [![Linkedin: sunnydanu](https://img.shields.io/badge/-sunnydanu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sunnydanu/)](https://www.linkedin.com/in/sunnydanu/)
 ![GitHub followers](https://img.shields.io/github/followers/sunnydanu?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=http://sunnydanu.com/)](http://sunnydanu.com/)
@@ -20,7 +20,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 ```bash
 npx sunny
 ```
-**👆 This command line tool can be found at [npx anmol](https://github.com/sunnydanu/npx_card)**
+**👆 This command line tool can be found at [npx sunny](https://github.com/sunnydanu/npx_card)**
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
