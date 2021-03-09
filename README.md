@@ -1,4 +1,4 @@
-<img align='right' src="https://raw.githubusercontent.com/sunnydanu/sunnydanu/master/banner.jpg" width="400">
+<img align='right'  src="https://raw.githubusercontent.com/sunnydanu/sunnydanu/master/banner.jpg" width="400" style="margin-top='-50'">
 Hi, I'm [Sunny Danu](http://sunnydanu.com/), a passionate self-taught Full Stack web developer and a freelance software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
@@ -15,7 +15,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 ![](https://visitor-badge.glitch.me/badge?page_id=sunnydanu.sunnydanu)
 ![Waka Readme](https://github.com/sunnydanu/sunnydanu/actions/workflows/update-stats.yml/badge.svg)
 
-
+<hr>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
