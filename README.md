@@ -53,4 +53,4 @@ const sunny = {
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/sunnydanu/waka-stats)**
+**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/sunnydanu/waka-readme-stats)**
