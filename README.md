@@ -4,8 +4,8 @@ Hi, I'm [Sunny Danu](http://sunnydanu.com/), a passionate self-taught Full Stack
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Software Engineer at <a href="https://intellisensetechnology.ca/">Intellisense Technology</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<img align='right' src="https://raw.githubusercontent.com/sunnydanu/sunnydanu/master/banner.jpg" width="230">
+<p><em>Software Engineer at <a href="https://intellisensetechnology.ca/">Intellisense Technology</a><img src="https://raw.githubusercontent.com/sunnydanu/sunnydanu/master/banner.jpg" width="30"> 
 </em></p>
 
 
