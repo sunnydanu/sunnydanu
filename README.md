@@ -51,7 +51,7 @@ const sunny = {
 
 ---
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-313-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-330-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue)
 
@@ -59,7 +59,7 @@ const sunny = {
 
 > 🏆 12 Contributions in the Year 2021
  > 
-> 📦 58.7 kB Used in Github's Storage 
+> 📦 58.8 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -105,13 +105,6 @@ JavaScript               1 hr 1 min          ██░░░░░░░░░�
 🔥 Editors: 
 VS Code                  10 hrs 35 mins      ████████████████████░░░░░   81.19% 
 PhpStorm                 2 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.81%
-
-🐱‍💻 Projects: 
-sunnydanu                5 hrs 51 mins       ███████████░░░░░░░░░░░░░░   44.92% 
-sunny                    2 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.81% 
-waka-stats               2 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.95% 
-sunnydanu-v1             1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.73% 
-waka-readme-stats        59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.64%
 
 💻 Operating System: 
 Windows                  13 hrs 3 mins       █████████████████████████   100.0%
