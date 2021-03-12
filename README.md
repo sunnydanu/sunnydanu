@@ -51,6 +51,8 @@ const sunny = {
 
 ---
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-453-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
@@ -91,6 +93,8 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
+⌚︎ Time Zone: Asia/Kolkata
+
 💬 Programming Languages: 
 PHP                      8 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   34.19% 
 JavaScript               4 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.56% 
@@ -101,6 +105,9 @@ Python                   1 hr 14 mins        █░░░░░░░░░░�
 🔥 Editors: 
 VS Code                  15 hrs 14 mins      ████████████████░░░░░░░░░   64.92% 
 PhpStorm                 8 hrs 13 mins       ████████░░░░░░░░░░░░░░░░░   35.08%
+
+💻 Operating System: 
+Windows                  23 hrs 27 mins      █████████████████████████   100.0%
 
 ```
 
