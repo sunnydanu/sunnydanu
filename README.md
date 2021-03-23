@@ -51,19 +51,19 @@ const sunny = {
 
 ---
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-215-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-201-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 19 Contributions in the Year 2021
+> 🏆 20 Contributions in the Year 2021
  > 
 > 📦 58.9 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 8 Public Repositories 
+> 📜 9 Public Repositories 
  > 
 > 🔑 3 Private Repositories  
  > 
