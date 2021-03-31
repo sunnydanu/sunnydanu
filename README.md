@@ -61,7 +61,7 @@ const sunny = {
  > 
 > 💼 Opted to Hire
  > 
-> 📜 10 Public Repositories 
+> 📜 9 Public Repositories 
  > 
 > 🔑 3 Private Repositories  
  > 
