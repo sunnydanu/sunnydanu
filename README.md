@@ -57,7 +57,7 @@ const sunny = {
 
 > 🏆 26 Contributions in the Year 2021
  > 
-> 📦 93.5 kB Used in Github's Storage 
+> 📦 93.7 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
