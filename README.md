@@ -1,4 +1,4 @@
-<img align='right'  src="https://raw.githubusercontent.com/sunnydanu/sunnydanu/master/banner.jpg" width="400" >
+<img align='right'  src="https://github.com/sunnydanu/sunnydanu/blob/681818085dbf784f97eb5d2d51a63554cad3b8d4/1623039293500.gif" width="400" >
 
 Hi, I'm [Sunny Danu] (http://sunnydanu.com/), a passionate self-taught Full Stack web developer and a freelance software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
