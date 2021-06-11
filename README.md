@@ -102,10 +102,10 @@ No Activity Tracked This Week
 **I Mostly Code in PHP** 
 
 ```text
-PHP                      2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57% 
-JavaScript               2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57% 
-EJS                      2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57% 
-Kotlin                   1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   14.29%
+PHP                      3 repos             █████████░░░░░░░░░░░░░░░░   37.5% 
+JavaScript               2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
+EJS                      2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
+Kotlin                   1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.5%
 
 ```
 
