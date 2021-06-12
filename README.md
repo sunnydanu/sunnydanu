@@ -92,10 +92,15 @@ Sunday       1 commits      █░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Git                      4 mins              ████████████░░░░░░░░░░░░░   48.47% 
+TypeScript               1 min               ████░░░░░░░░░░░░░░░░░░░░░   19.2% 
+Git Config               1 min               ███░░░░░░░░░░░░░░░░░░░░░░   12.71% 
+JavaScript               0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   8.74% 
+PHP                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   5.44%
 
 🔥 Editors: 
-No Activity Tracked This Week
+PhpStorm                 6 mins              ████████████████░░░░░░░░░   66.63% 
+VS Code                  3 mins              ████████░░░░░░░░░░░░░░░░░   33.37%
 
 ```
 
@@ -115,7 +120,7 @@ Kotlin                   1 repo              ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/sunnydanu/sunnydanu/master/charts/bar_graph.png) 
 
 
- Last Updated on 11/06/2021
+ Last Updated on 12/06/2021
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
