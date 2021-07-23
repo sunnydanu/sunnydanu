@@ -55,13 +55,13 @@ const sunny = {
 
 **🐱 My Github Data** 
 
-> 🏆 33 Contributions in the Year 2021
+> 🏆 35 Contributions in the Year 2021
  > 
 > 📦 112.5 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 14 Public Repositories 
+> 📜 16 Public Repositories 
  > 
 > 🔑 5 Private Repositories  
  > 
