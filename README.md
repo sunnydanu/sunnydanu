@@ -92,12 +92,14 @@ Sunday       1 commits      █░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    17 mins             ██████████████░░░░░░░░░░░   55.57% 
-JSON                     10 mins             ████████░░░░░░░░░░░░░░░░░   32.46% 
-TypeScript               3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.97%
+JavaScript               42 mins             ████████░░░░░░░░░░░░░░░░░   32.56% 
+JSON                     34 mins             ██████░░░░░░░░░░░░░░░░░░░   26.31% 
+Other                    32 mins             ██████░░░░░░░░░░░░░░░░░░░   24.87% 
+TypeScript               9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   7.58% 
+Git Config               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.52%
 
 🔥 Editors: 
-VS Code                  32 mins             █████████████████████████   100.0%
+VS Code                  2 hrs 11 mins       █████████████████████████   100.0%
 
 ```
 
@@ -118,7 +120,7 @@ TypeScript               1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/sunnydanu/sunnydanu/master/charts/bar_graph.png) 
 
 
- Last Updated on 18/08/2021
+ Last Updated on 19/08/2021
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
