@@ -22,22 +22,22 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 const sunny = {
     pronouns: "He" | "Him",
     code: ["Javascript", "php"],
-    askMeAbout: ["web dev", "tech", "app dev"],
+    askMeAbout: ["web dev", "tech", "app dev","Aws"],
     technologies: {
         mobileApp: ["Android App"],
         frontEnd: {
-            js: ["ReactJs"],
+            js: ["ReactJs","Angular"],
             css: ["bootstrap"]
         },
         backEnd: {
-            js: ["node", "express"],
+            js: ["nodeJs"],
             php: ["Laravel","Codeigniter"]
         },
         devOps: ["AWS","Linux", "Docker🐳","Apache"],
         databases: ["mongo", "MySql", "sqlite"],
         misc: ["Firebase", "Socket.IO", "Bitbucket", "php"]
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    architecture: ["Progressive web applications", "Single page applications"],
     currentFocus: "Internet of things, artificial intelligence"
 };
 ```
