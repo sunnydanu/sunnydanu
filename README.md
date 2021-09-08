@@ -51,7 +51,7 @@ const sunny = {
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-23-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3700%20lines%20of%20code-blue)
 
@@ -96,19 +96,19 @@ Sunday       1 commits      █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               4 hrs 50 mins       ██████████░░░░░░░░░░░░░░░   42.52% 
-Blade Template           2 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.66% 
-PHP                      1 hr 53 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.65% 
-Other                    1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   9.37% 
-TypeScript               22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.33%
+JavaScript               5 hrs 57 mins       ███████████░░░░░░░░░░░░░░   44.5% 
+Blade Template           2 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.2% 
+PHP                      2 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.98% 
+Other                    1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
+JSON                     26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.33%
 
 🔥 Editors: 
-PhpStorm                 9 hrs 1 min         ███████████████████░░░░░░   79.38% 
-VS Code                  2 hrs               ████░░░░░░░░░░░░░░░░░░░░░   17.66% 
-WebStorm                 20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.96%
+PhpStorm                 10 hrs 25 mins      ███████████████████░░░░░░   77.81% 
+VS Code                  2 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   21.34% 
+WebStorm                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.84%
 
 💻 Operating System: 
-Windows                  11 hrs 22 mins      █████████████████████████   100.0%
+Windows                  13 hrs 23 mins      █████████████████████████   100.0%
 
 ```
 
@@ -129,7 +129,7 @@ TypeScript               1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/sunnydanu/sunnydanu/master/charts/bar_graph.png) 
 
 
- Last Updated on 07/09/2021
+ Last Updated on 08/09/2021
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
