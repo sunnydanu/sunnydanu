@@ -51,19 +51,19 @@ const sunny = {
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-23-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-22-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3700%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 43 Contributions in the Year 2021
+> 🏆 44 Contributions in the Year 2021
  > 
 > 📦 143.8 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 23 Public Repositories 
+> 📜 24 Public Repositories 
  > 
 > 🔑 9 Private Repositories  
  > 
@@ -96,18 +96,18 @@ Sunday       1 commits      █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               5 hrs 45 mins       █████████░░░░░░░░░░░░░░░░   38.64% 
-PHP                      3 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   21.16% 
-Blade Template           3 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   21.1% 
-Other                    1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   7.18% 
-JSON                     1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   6.86%
+JavaScript               9 hrs               ███████████░░░░░░░░░░░░░░   46.83% 
+PHP                      4 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   21.01% 
+Blade Template           3 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.11% 
+JSON                     1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.77% 
+Other                    1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.53%
 
 🔥 Editors: 
-PhpStorm                 11 hrs 2 mins       ██████████████████░░░░░░░   74.09% 
-VS Code                  3 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   25.91%
+PhpStorm                 11 hrs 14 mins      ██████████████░░░░░░░░░░░   58.39% 
+VS Code                  8 hrs               ██████████░░░░░░░░░░░░░░░   41.61%
 
 💻 Operating System: 
-Windows                  14 hrs 54 mins      █████████████████████████   100.0%
+Windows                  19 hrs 14 mins      █████████████████████████   100.0%
 
 ```
 
@@ -128,7 +128,7 @@ TypeScript               1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/sunnydanu/sunnydanu/master/charts/bar_graph.png) 
 
 
- Last Updated on 10/09/2021
+ Last Updated on 11/09/2021
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
