@@ -57,13 +57,13 @@ const sunny = {
 
 **🐱 My Github Data** 
 
-> 🏆 45 Contributions in the Year 2021
+> 🏆 46 Contributions in the Year 2021
  > 
-> 📦 143.8 kB Used in Github's Storage 
+> 📦 143.9 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 25 Public Repositories 
+> 📜 26 Public Repositories 
  > 
 > 🔑 9 Private Repositories  
  > 
@@ -114,11 +114,11 @@ Windows                  37 hrs 7 mins       ███████████�
 **I Mostly Code in PHP** 
 
 ```text
-PHP                      4 repos             ███████░░░░░░░░░░░░░░░░░░   30.77% 
-JavaScript               4 repos             ███████░░░░░░░░░░░░░░░░░░   30.77% 
-EJS                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
-Kotlin                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
-TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   7.69%
+PHP                      4 repos             ███████░░░░░░░░░░░░░░░░░░   28.57% 
+JavaScript               4 repos             ███████░░░░░░░░░░░░░░░░░░   28.57% 
+EJS                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+TypeScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   7.14%
 
 ```
 
@@ -128,7 +128,7 @@ TypeScript               1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/sunnydanu/sunnydanu/master/charts/bar_graph.png) 
 
 
- Last Updated on 16/09/2021
+ Last Updated on 17/09/2021
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
