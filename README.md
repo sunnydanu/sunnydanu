@@ -59,7 +59,7 @@ const sunny = {
 
 > 🏆 46 Contributions in the Year 2021
  > 
-> 📦 143.9 kB Used in Github's Storage 
+> 📦 144.1 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -96,18 +96,18 @@ Sunday       1 commits      █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               9 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   25.76% 
-JavaScript               8 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   22.75% 
-YAML                     5 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.14% 
-Blade Template           4 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.39% 
-PHP                      3 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.39%
+TypeScript               15 hrs 41 mins      ██████████░░░░░░░░░░░░░░░   43.03% 
+JavaScript               5 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.97% 
+YAML                     4 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.68% 
+Blade Template           3 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.73% 
+PHP                      3 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.2%
 
 🔥 Editors: 
-VS Code                  27 hrs 29 mins      ██████████████████░░░░░░░   74.07% 
-PhpStorm                 9 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   25.93%
+VS Code                  30 hrs 9 mins       ████████████████████░░░░░   82.75% 
+PhpStorm                 6 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.25%
 
 💻 Operating System: 
-Windows                  37 hrs 7 mins       █████████████████████████   100.0%
+Windows                  36 hrs 26 mins      █████████████████████████   100.0%
 
 ```
 
@@ -128,7 +128,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/sunnydanu/sunnydanu/master/charts/bar_graph.png) 
 
 
- Last Updated on 17/09/2021
+ Last Updated on 19/09/2021
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
