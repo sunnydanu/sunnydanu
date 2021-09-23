@@ -55,15 +55,15 @@ const sunny = {
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3700%20lines%20of%20code-blue)
 
-**🐱 My Github Data** 
+**🐱 My GitHub Data** 
 
-> 🏆 46 Contributions in the Year 2021
+> 🏆 47 Contributions in the Year 2021
  > 
-> 📦 144.1 kB Used in Github's Storage 
+> 📦 144.1 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 27 Public Repositories 
+> 📜 28 Public Repositories 
  > 
 > 🔑 9 Private Repositories  
  > 
@@ -96,18 +96,18 @@ Sunday       1 commits      █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               14 hrs 25 mins      ████████████░░░░░░░░░░░░░   47.63% 
-JavaScript               5 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   19.18% 
-Blade Template           3 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.82% 
-YAML                     2 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.82% 
-PHP                      1 hr 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.37%
+TypeScript               13 hrs 26 mins      ████████████░░░░░░░░░░░░░   51.24% 
+JavaScript               5 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   19.69% 
+YAML                     1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   7.51% 
+PHP                      1 hr 53 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.2% 
+Blade Template           1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.68%
 
 🔥 Editors: 
-VS Code                  25 hrs 45 mins      █████████████████████░░░░   85.03% 
-PhpStorm                 4 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.97%
+VS Code                  22 hrs 57 mins      ██████████████████████░░░   87.56% 
+PhpStorm                 3 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.44%
 
 💻 Operating System: 
-Windows                  30 hrs 17 mins      █████████████████████████   100.0%
+Windows                  26 hrs 13 mins      █████████████████████████   100.0%
 
 ```
 
@@ -128,7 +128,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/sunnydanu/sunnydanu/master/charts/bar_graph.png) 
 
 
- Last Updated on 22/09/2021
+ Last Updated on 23/09/2021
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
