@@ -59,7 +59,7 @@ const sunny = {
 
 > 🏆 47 Contributions in the Year 2021
  > 
-> 📦 151.8 kB Used in GitHub's Storage 
+> 📦 151.9 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -96,17 +96,17 @@ Sunday       1 commits      █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               18 hrs 40 mins      ███████████████░░░░░░░░░░   60.74% 
-JavaScript               10 hrs              ████████░░░░░░░░░░░░░░░░░   32.54% 
-JSON                     56 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.06% 
-YAML                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.32% 
-Docker                   18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.99%
+TypeScript               15 hrs 42 mins      █████████████░░░░░░░░░░░░   53.38% 
+JavaScript               10 hrs 46 mins      █████████░░░░░░░░░░░░░░░░   36.65% 
+JSON                     1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.9% 
+Docker                   55 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.15% 
+YAML                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.41%
 
 🔥 Editors: 
-VS Code                  30 hrs 44 mins      █████████████████████████   100.0%
+VS Code                  29 hrs 24 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  30 hrs 44 mins      █████████████████████████   100.0%
+Windows                  29 hrs 24 mins      █████████████████████████   100.0%
 
 ```
 
@@ -127,7 +127,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/sunnydanu/sunnydanu/master/charts/bar_graph.png) 
 
 
- Last Updated on 30/09/2021
+ Last Updated on 01/10/2021
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
