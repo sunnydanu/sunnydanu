@@ -57,13 +57,13 @@ const sunny = {
 
 **🐱 My GitHub Data** 
 
-> 🏆 53 Contributions in the Year 2021
+> 🏆 54 Contributions in the Year 2021
  > 
 > 📦 152.2 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 32 Public Repositories 
+> 📜 33 Public Repositories 
  > 
 > 🔑 10 Private Repositories  
  > 
@@ -96,18 +96,18 @@ Sunday       1 commits      █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               5 hrs 36 mins       █████████████░░░░░░░░░░░░   55.09% 
-YAML                     3 hrs 57 mins       █████████░░░░░░░░░░░░░░░░   38.84% 
-JSON                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.62% 
-Other                    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.66% 
-Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.45%
+TypeScript               9 hrs 52 mins       ██████████████░░░░░░░░░░░   59.04% 
+YAML                     5 hrs 29 mins       ████████░░░░░░░░░░░░░░░░░   32.85% 
+Other                    42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.22% 
+JSON                     34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.39% 
+Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.27%
 
 🔥 Editors: 
-VS Code                  10 hrs 3 mins       ████████████████████████░   98.85% 
-PhpStorm                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.15%
+VS Code                  16 hrs 36 mins      ████████████████████████░   99.3% 
+PhpStorm                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.7%
 
 💻 Operating System: 
-Windows                  10 hrs 10 mins      █████████████████████████   100.0%
+Windows                  16 hrs 43 mins      █████████████████████████   100.0%
 
 ```
 
@@ -128,7 +128,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/sunnydanu/sunnydanu/master/charts/bar_graph.png) 
 
 
- Last Updated on 25/10/2021
+ Last Updated on 26/10/2021
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
