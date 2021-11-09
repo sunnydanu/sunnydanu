@@ -96,13 +96,13 @@ Sunday       1 commits      █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               7 hrs 30 mins       █████████████████████████   100.0%
+TypeScript               3 hrs               █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  7 hrs 30 mins       █████████████████████████   100.0%
+VS Code                  3 hrs               █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  7 hrs 30 mins       █████████████████████████   100.0%
+Windows                  3 hrs               █████████████████████████   100.0%
 
 ```
 
@@ -123,7 +123,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/sunnydanu/sunnydanu/master/charts/bar_graph.png) 
 
 
- Last Updated on 08/11/2021
+ Last Updated on 09/11/2021
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
