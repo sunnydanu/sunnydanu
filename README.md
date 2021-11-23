@@ -96,17 +96,15 @@ Sunday       1 commits      █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    2 hrs 22 mins       ████████████████░░░░░░░░░   64.56% 
-YAML                     37 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.04% 
-TypeScript               34 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.69% 
-Docker                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.69% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
+YAML                     28 mins             █████████████████░░░░░░░░   68.49% 
+Other                    13 mins             ████████░░░░░░░░░░░░░░░░░   31.51% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-VS Code                  3 hrs 40 mins       █████████████████████████   100.0%
+VS Code                  41 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  3 hrs 40 mins       █████████████████████████   100.0%
+Windows                  41 mins             █████████████████████████   100.0%
 
 ```
 
@@ -127,7 +125,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/sunnydanu/sunnydanu/master/charts/bar_graph.png) 
 
 
- Last Updated on 22/11/2021
+ Last Updated on 23/11/2021
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
