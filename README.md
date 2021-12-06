@@ -53,13 +53,13 @@ const sunny = {
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3711%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-91%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 56 Contributions in the Year 2021
  > 
-> 📦 153.1 kB Used in GitHub's Storage 
+> 📦 153.2 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -96,18 +96,13 @@ Sunday       1 commits      █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Blade Template           1 hr                █████████████░░░░░░░░░░░░   54.33% 
-PHP                      47 mins             ██████████░░░░░░░░░░░░░░░   42.45% 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.3% 
-Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.92% 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.81%
+No Activity Tracked This Week
 
 🔥 Editors: 
-PhpStorm                 1 hr 51 mins        ████████████████████████░   99.07% 
-VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.93%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 52 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -128,7 +123,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/sunnydanu/sunnydanu/master/charts/bar_graph.png) 
 
 
- Last Updated on 01/12/2021
+ Last Updated on 06/12/2021
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
