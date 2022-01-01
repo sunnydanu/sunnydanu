@@ -57,7 +57,7 @@ const sunny = {
 
 **🐱 My GitHub Data** 
 
-> 🏆 58 Contributions in the Year 2021
+> 🏆 0 Contributions in the Year 2022
  > 
 > 📦 153.3 kB Used in GitHub's Storage 
  > 
@@ -96,16 +96,16 @@ Sunday       1 commits      █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Blade Template           4 hrs 39 mins       █████████████████░░░░░░░░   69.98% 
-PHP                      1 hr 38 mins        ██████░░░░░░░░░░░░░░░░░░░   24.8% 
-CSS                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.28% 
-HTML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.94%
+Blade Template           4 hrs 44 mins       █████████████████░░░░░░░░   70.36% 
+PHP                      1 hr 39 mins        ██████░░░░░░░░░░░░░░░░░░░   24.5% 
+CSS                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.22% 
+HTML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.92%
 
 🔥 Editors: 
-PhpStorm                 6 hrs 38 mins       █████████████████████████   100.0%
+PhpStorm                 6 hrs 44 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  6 hrs 38 mins       █████████████████████████   100.0%
+Windows                  6 hrs 44 mins       █████████████████████████   100.0%
 
 ```
 
@@ -126,7 +126,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/sunnydanu/sunnydanu/master/charts/bar_graph.png) 
 
 
- Last Updated on 31/12/2021
+ Last Updated on 01/01/2022
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
