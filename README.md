@@ -96,16 +96,14 @@ Sunday       1 commits      █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-PHP                      1 hr 2 mins         ███████████████░░░░░░░░░░   59.86% 
-Blade Template           41 mins             ██████████░░░░░░░░░░░░░░░   40.12% 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
+PHP                      50 mins             ████████████░░░░░░░░░░░░░   50.83% 
+Blade Template           49 mins             ████████████░░░░░░░░░░░░░   49.17%
 
 🔥 Editors: 
-PhpStorm                 1 hr 43 mins        █████████████████████████   100.0%
+PhpStorm                 1 hr 40 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  1 hr 43 mins        █████████████████████████   100.0%
+Windows                  1 hr 40 mins        █████████████████████████   100.0%
 
 ```
 
@@ -126,7 +124,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/sunnydanu/sunnydanu/master/charts/bar_graph.png) 
 
 
- Last Updated on 01/02/2022 00:50:44 UTC
+ Last Updated on 03/02/2022 00:47:22 UTC
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
