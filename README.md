@@ -51,7 +51,7 @@ const sunny = {
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-91%20lines%20of%20code-blue)
 
@@ -96,14 +96,14 @@ Sunday       1 commits      █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-PHP                      50 mins             ████████████░░░░░░░░░░░░░   50.83% 
-Blade Template           49 mins             ████████████░░░░░░░░░░░░░   49.17%
+PHP                      1 hr 4 mins         ██████████████░░░░░░░░░░░   56.63% 
+Blade Template           49 mins             ██████████░░░░░░░░░░░░░░░   43.37%
 
 🔥 Editors: 
-PhpStorm                 1 hr 40 mins        █████████████████████████   100.0%
+PhpStorm                 1 hr 53 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  1 hr 40 mins        █████████████████████████   100.0%
+Windows                  1 hr 53 mins        █████████████████████████   100.0%
 
 ```
 
@@ -124,7 +124,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/sunnydanu/sunnydanu/master/charts/bar_graph.png) 
 
 
- Last Updated on 03/02/2022 00:47:22 UTC
+ Last Updated on 04/02/2022 00:48:19 UTC
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
