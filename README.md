@@ -51,13 +51,13 @@ const sunny = {
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-91%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 2 Contributions in the Year 2022
+> 🏆 3 Contributions in the Year 2022
  > 
 > 📦 152.9 kB Used in GitHub's Storage 
  > 
@@ -70,22 +70,22 @@ const sunny = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    9 commits      ██████████░░░░░░░░░░░░░░░   40.91% 
-🌆 Daytime    5 commits      █████░░░░░░░░░░░░░░░░░░░░   22.73% 
-🌃 Evening    8 commits      █████████░░░░░░░░░░░░░░░░   36.36% 
+🌞 Morning    9 commits      █████████░░░░░░░░░░░░░░░░   39.13% 
+🌆 Daytime    5 commits      █████░░░░░░░░░░░░░░░░░░░░   21.74% 
+🌃 Evening    9 commits      █████████░░░░░░░░░░░░░░░░   39.13% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       7 commits      ████████░░░░░░░░░░░░░░░░░   31.82% 
-Tuesday      3 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.64% 
-Wednesday    5 commits      █████░░░░░░░░░░░░░░░░░░░░   22.73% 
-Thursday     3 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.64% 
-Friday       3 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.64% 
+Monday       7 commits      ███████░░░░░░░░░░░░░░░░░░   30.43% 
+Tuesday      4 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.39% 
+Wednesday    5 commits      █████░░░░░░░░░░░░░░░░░░░░   21.74% 
+Thursday     3 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.04% 
+Friday       3 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.04% 
 Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Sunday       1 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.55%
+Sunday       1 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.35%
 
 ```
 
@@ -123,7 +123,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/sunnydanu/sunnydanu/master/charts/bar_graph.png) 
 
 
- Last Updated on 01/03/2022 01:02:14 UTC
+ Last Updated on 02/03/2022 01:00:05 UTC
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
