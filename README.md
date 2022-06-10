@@ -53,19 +53,19 @@ const sunny = {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-91%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 3 Contributions in the Year 2022
+> 🏆 4 Contributions in the Year 2022
  > 
 > 📦 152.9 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 39 Public Repositories 
+> 📜 40 Public Repositories 
  > 
 > 🔑 11 Private Repositories  
  > 
@@ -108,14 +108,14 @@ No Activity Tracked This Week
 
 ```
 
-**I Mostly Code in PHP** 
+**I Mostly Code in JavaScript** 
 
 ```text
-PHP                      5 repos             ███████░░░░░░░░░░░░░░░░░░   27.78% 
-JavaScript               5 repos             ███████░░░░░░░░░░░░░░░░░░   27.78% 
-TypeScript               4 repos             █████░░░░░░░░░░░░░░░░░░░░   22.22% 
-EJS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
-Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.56%
+JavaScript               6 repos             ████████░░░░░░░░░░░░░░░░░   31.58% 
+PHP                      5 repos             ██████░░░░░░░░░░░░░░░░░░░   26.32% 
+TypeScript               4 repos             █████░░░░░░░░░░░░░░░░░░░░   21.05% 
+EJS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.53% 
+Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.26%
 
 ```
 
@@ -125,7 +125,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/sunnydanu/sunnydanu/master/charts/bar_graph.png) 
 
 
- Last Updated on 09/06/2022 01:14:35 UTC
+ Last Updated on 10/06/2022 01:21:03 UTC
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
