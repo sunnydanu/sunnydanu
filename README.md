@@ -51,21 +51,21 @@ const sunny = {
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-418%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-30-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-91%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 4 Contributions in the Year 2022
+> 🏆 5 Contributions in the Year 2022
  > 
-> 📦 153.0 kB Used in GitHub's Storage 
+> 📦 152.9 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 40 Public Repositories 
+> 📜 41 Public Repositories 
  > 
 > 🔑 11 Private Repositories  
  > 
@@ -111,11 +111,11 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               6 repos             ████████░░░░░░░░░░░░░░░░░   31.58% 
-PHP                      5 repos             ██████░░░░░░░░░░░░░░░░░░░   26.32% 
-TypeScript               4 repos             █████░░░░░░░░░░░░░░░░░░░░   21.05% 
-EJS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.53% 
-Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.26%
+JavaScript               7 repos             ████████░░░░░░░░░░░░░░░░░   35.0% 
+PHP                      5 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
+TypeScript               4 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+EJS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
+Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.0%
 
 ```
 
@@ -125,7 +125,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/sunnydanu/sunnydanu/master/charts/bar_graph.png) 
 
 
- Last Updated on 14/06/2022 03:45:48 UTC
+ Last Updated on 15/06/2022 01:19:24 UTC
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
