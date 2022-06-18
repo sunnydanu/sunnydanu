@@ -53,41 +53,41 @@ const sunny = {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-28-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-29-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-91%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 6 Contributions in the Year 2022
+> 🏆 10 Contributions in the Year 2022
  > 
 > 📦 153.4 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 42 Public Repositories 
+> 📜 44 Public Repositories 
  > 
 > 🔑 11 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    9 commits      ██████████░░░░░░░░░░░░░░░   42.86% 
-🌆 Daytime    5 commits      ██████░░░░░░░░░░░░░░░░░░░   23.81% 
-🌃 Evening    7 commits      ████████░░░░░░░░░░░░░░░░░   33.33% 
+🌞 Morning    9 commits      ██████████░░░░░░░░░░░░░░░   40.91% 
+🌆 Daytime    6 commits      ██████░░░░░░░░░░░░░░░░░░░   27.27% 
+🌃 Evening    7 commits      ████████░░░░░░░░░░░░░░░░░   31.82% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       7 commits      ████████░░░░░░░░░░░░░░░░░   33.33% 
-Tuesday      4 commits      ████░░░░░░░░░░░░░░░░░░░░░   19.05% 
-Wednesday    5 commits      ██████░░░░░░░░░░░░░░░░░░░   23.81% 
-Thursday     2 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.52% 
-Friday       2 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.52% 
+Monday       7 commits      ████████░░░░░░░░░░░░░░░░░   31.82% 
+Tuesday      4 commits      ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
+Wednesday    5 commits      █████░░░░░░░░░░░░░░░░░░░░   22.73% 
+Thursday     2 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
+Friday       3 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.64% 
 Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Sunday       1 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.76%
+Sunday       1 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.55%
 
 ```
 
@@ -125,7 +125,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/sunnydanu/sunnydanu/master/charts/bar_graph.png) 
 
 
- Last Updated on 17/06/2022 01:13:01 UTC
+ Last Updated on 18/06/2022 01:16:20 UTC
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
