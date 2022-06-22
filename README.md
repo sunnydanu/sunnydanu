@@ -59,13 +59,13 @@ const sunny = {
 
 **🐱 My GitHub Data** 
 
-> 🏆 10 Contributions in the Year 2022
+> 🏆 11 Contributions in the Year 2022
  > 
 > 📦 153.4 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 44 Public Repositories 
+> 📜 45 Public Repositories 
  > 
 > 🔑 11 Private Repositories  
  > 
@@ -111,11 +111,11 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               8 repos             █████████░░░░░░░░░░░░░░░░   38.1% 
-PHP                      5 repos             ██████░░░░░░░░░░░░░░░░░░░   23.81% 
-TypeScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   19.05% 
-EJS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.52% 
-Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.76%
+JavaScript               9 repos             ██████████░░░░░░░░░░░░░░░   40.91% 
+PHP                      5 repos             █████░░░░░░░░░░░░░░░░░░░░   22.73% 
+TypeScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
+EJS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
+Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.55%
 
 ```
 
@@ -125,7 +125,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/sunnydanu/sunnydanu/master/charts/bar_graph.png) 
 
 
- Last Updated on 21/06/2022 01:24:32 UTC
+ Last Updated on 22/06/2022 01:25:31 UTC
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
