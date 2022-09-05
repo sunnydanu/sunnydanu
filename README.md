@@ -51,7 +51,7 @@ const sunny = {
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-418%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
@@ -69,45 +69,6 @@ const sunny = {
  > 
 > 🔑 11 Private Repositories  
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    9 commits      ██████████░░░░░░░░░░░░░░░   40.91% 
-🌆 Daytime    6 commits      ██████░░░░░░░░░░░░░░░░░░░   27.27% 
-🌃 Evening    7 commits      ████████░░░░░░░░░░░░░░░░░   31.82% 
-🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday       7 commits      ████████░░░░░░░░░░░░░░░░░   31.82% 
-Tuesday      4 commits      ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
-Wednesday    5 commits      █████░░░░░░░░░░░░░░░░░░░░   22.73% 
-Thursday     2 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
-Friday       3 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.64% 
-Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Sunday       1 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.55%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -125,7 +86,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/sunnydanu/sunnydanu/master/charts/bar_graph.png) 
 
 
- Last Updated on 04/09/2022 01:28:58 UTC
+ Last Updated on 05/09/2022 01:53:14 UTC
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
