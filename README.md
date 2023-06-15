@@ -1,8 +1,13 @@
 <img align='right'  src="https://github.com/sunnydanu/sunnydanu/blob/681818085dbf784f97eb5d2d51a63554cad3b8d4/1623039293500.gif" width="400" >
 
-Hi, I'm [Sunny Danu] (http://sunnydanu.com/), a passionate self-taught Full Stack web developer and a freelance software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm [Sunny Danu] (http://sunnydanu.com/), Experienced Cloud Engineer with 8+ years of hands-on expertise in building and managing cloud-based solutions. Currently, I am working with Node.js and AWS, utilizing my skills in microservices, Kubernetes, and Docker. With a strong command over JavaScript, I also possess a proficient understanding of PHP and MySQL. I have a proven track record in server management, including the administration of Linux servers and AWS EC2 instances, along with other managed services within the AWS ecosystem.
 
-I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+Driven by a passion for exploring emerging technologies, I have ventured into mobile app development using Android Kotlin and Flutter. Additionally, I have broadened my horizons by learning Angular and React.js, always striving to stay at the forefront of innovation. Presently, I am particularly interested in decentralized peer-to-peer systems, machine learning, and artificial intelligence. I enjoy building small automated tasks, and my knowledge extends to shell scripting and Python.
+
+I thrive in dynamic and challenging environments, where I can continuously expand my skill set and contribute to cutting-edge projects. With a proactive and adaptable mindset, I bring a blend of technical expertise, problem-solving abilities, and a drive for innovation to every endeavor.
+
+Connect with me to discuss collaboration opportunities and the latest advancements in cloud computing, software development, and emerging technologies.
+
 
 <p><em>Software Engineer at <a href="https://intellisensetechnology.ca/">Intellisense Technology</a><img src="https://raw.githubusercontent.com/sunnydanu/sunnydanu/master/banner.jpg" width="30"> 
 </em></p>
