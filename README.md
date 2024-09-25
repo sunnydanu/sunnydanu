@@ -9,7 +9,7 @@ I thrive in dynamic and challenging environments, where I can continuously expan
 Connect with me to discuss collaboration opportunities and the latest advancements in cloud computing, software development, and emerging technologies.
 
 
-<p><em>Software Engineer at <a href="https://intellisensetechnology.ca/">Intellisense Technology</a><img src="https://raw.githubusercontent.com/sunnydanu/sunnydanu/master/banner.jpg" width="30"> 
+<p><em>Senior consultant at <a href="https://www.capgemini.com/in-en/">Capgemini</a><img src="https://raw.githubusercontent.com/sunnydanu/sunnydanu/master/banner.jpg" width="30"> 
 </em></p>
 
 
