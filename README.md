@@ -56,51 +56,47 @@ const sunny = {
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-424%20hrs%2048%20mins-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-91%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.4%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 11 Contributions in the Year 2022
+> 📦 196.8 kB Used in GitHub's Storage 
  > 
-> 📦 153.5 kB Used in GitHub's Storage 
+> 🏆 374 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
-> 📜 45 Public Repositories 
+> 📜 98 Public Repositories 
  > 
-> 🔑 11 Private Repositories  
+> 🔑 15 Private Repositories 
  > 
-**I'm an Early 🐤** 
+**I'm a Night 🦉** 
 
 ```text
-🌞 Morning    9 commits      ██████████░░░░░░░░░░░░░░░   42.86% 
-🌆 Daytime    5 commits      ██████░░░░░░░░░░░░░░░░░░░   23.81% 
-🌃 Evening    7 commits      ████████░░░░░░░░░░░░░░░░░   33.33% 
-🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
+🌞 Morning                214 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
+🌆 Daytime                446 commits         ███████░░░░░░░░░░░░░░░░░░   27.93 % 
+🌃 Evening                893 commits         ██████████████░░░░░░░░░░░   55.92 % 
+🌙 Night                  44 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
 ```
-📅 **I'm Most Productive on Monday** 
+📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday       7 commits      ████████░░░░░░░░░░░░░░░░░   33.33% 
-Tuesday      4 commits      ████░░░░░░░░░░░░░░░░░░░░░   19.05% 
-Wednesday    5 commits      ██████░░░░░░░░░░░░░░░░░░░   23.81% 
-Thursday     2 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.52% 
-Friday       2 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.52% 
-Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Sunday       1 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.76%
-
+Monday                   395 commits         ██████░░░░░░░░░░░░░░░░░░░   24.73 % 
+Tuesday                  112 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
+Wednesday                7 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+Thursday                 14 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+Friday                   8 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+Saturday                 423 commits         ███████░░░░░░░░░░░░░░░░░░   26.49 % 
+Sunday                   638 commits         ██████████░░░░░░░░░░░░░░░   39.95 % 
 ```
 
 
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Asia/Kolkata
+🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
 No Activity Tracked This Week
@@ -110,27 +106,26 @@ No Activity Tracked This Week
 
 💻 Operating System: 
 No Activity Tracked This Week
-
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               9 repos             ██████████░░░░░░░░░░░░░░░   40.91% 
-PHP                      5 repos             █████░░░░░░░░░░░░░░░░░░░░   22.73% 
-TypeScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
-EJS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
-Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.55%
-
+PHP                      6 repos             █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
+Vue                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+Dart                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+Svelte                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 ```
+
 
 
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/sunnydanu/sunnydanu/master/charts/bar_graph.png) 
+![Lines of Code chart](https://raw.githubusercontent.com/sunnydanu/sunnydanu/master/assets/bar_graph.png)
 
 
- Last Updated on 09/11/2022 01:22:50 UTC
+ Last Updated on 10/11/2024 03:19:41 UTC
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
