@@ -66,8 +66,6 @@ const sunny = {
 
 > 📦 196.8 kB Used in GitHub's Storage 
  > 
-> 🏆 2 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 101 Public Repositories 
@@ -127,7 +125,7 @@ Svelte                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sunnydanu/sunnydanu/master/assets/bar_graph.png)
 
 
- Last Updated on 17/03/2025 01:04:18 UTC
+ Last Updated on 18/03/2025 01:02:23 UTC
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
