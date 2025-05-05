@@ -64,7 +64,7 @@ const sunny = {
 
 **🐱 My GitHub Data** 
 
-> 📦 196.9 kB Used in GitHub's Storage 
+> 📦 196.8 kB Used in GitHub's Storage 
  > 
 > 🏆 2 Contributions in the Year 2025
  > 
@@ -127,7 +127,7 @@ Svelte                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sunnydanu/sunnydanu/master/assets/bar_graph.png)
 
 
- Last Updated on 04/05/2025 01:12:37 UTC
+ Last Updated on 05/05/2025 01:09:21 UTC
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
