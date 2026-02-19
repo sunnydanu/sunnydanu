@@ -113,11 +113,11 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               9 repos             ████████░░░░░░░░░░░░░░░░░   30.00 % 
-Vue                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-Dart                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-Svelte                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+JavaScript               9 repos             ████████░░░░░░░░░░░░░░░░░   31.03 % 
+Vue                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+Dart                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+Svelte                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 ```
 
 
@@ -127,7 +127,7 @@ Svelte                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sunnydanu/sunnydanu/master/assets/bar_graph.png)
 
 
- Last Updated on 18/02/2026 01:32:03 UTC
+ Last Updated on 19/02/2026 01:31:34 UTC
 <!--END_SECTION:waka-->
 
 *NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
